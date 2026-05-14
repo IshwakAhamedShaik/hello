@@ -1,8 +1,8 @@
 # dependencies
 node_modules/
 
-.npmrc
-
+# .npmrc
+.npmrc.local
 # next.js build output
 .next/
 out/
